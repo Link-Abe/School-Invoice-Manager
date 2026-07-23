@@ -1,6 +1,9 @@
 # Kiro IDE workspace files
 .kiro/
 
+# VSCode workspace files
+.vscode/
+
 # Excel temporary lock files
 ~$*.xlsm
 ~$*.xlsx
